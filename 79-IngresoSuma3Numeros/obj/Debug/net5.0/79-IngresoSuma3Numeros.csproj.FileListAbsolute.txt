@@ -1,0 +1,16 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\bin\Debug\net5.0\79-IngresoSuma3Numeros.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\bin\Debug\net5.0\79-IngresoSuma3Numeros.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\bin\Debug\net5.0\79-IngresoSuma3Numeros.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\bin\Debug\net5.0\79-IngresoSuma3Numeros.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\bin\Debug\net5.0\79-IngresoSuma3Numeros.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\bin\Debug\net5.0\ref\79-IngresoSuma3Numeros.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\bin\Debug\net5.0\79-IngresoSuma3Numeros.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\obj\Debug\net5.0\79-IngresoSuma3Numeros.csproj.AssemblyReference.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\obj\Debug\net5.0\79-IngresoSuma3Numeros.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\obj\Debug\net5.0\79-IngresoSuma3Numeros.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\obj\Debug\net5.0\79-IngresoSuma3Numeros.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\obj\Debug\net5.0\79-IngresoSuma3Numeros.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\obj\Debug\net5.0\79-IngresoSuma3Numeros.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\obj\Debug\net5.0\ref\79-IngresoSuma3Numeros.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\obj\Debug\net5.0\79-IngresoSuma3Numeros.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\79-IngresoSuma3Numeros\obj\Debug\net5.0\79-IngresoSuma3Numeros.genruntimeconfig.cache
